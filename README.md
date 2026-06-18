@@ -245,7 +245,12 @@ The project includes a simple web application for manual inference.
 
 ### Demo
 
-![Streamlit Demo](images/demo1.png, images/demo2.png)
+![Streamlit Demo]
+
+<p align="center">
+  <img src="images/demo1.png" width="45%" />
+  <img src="images/demo2.png" width="45%" />
+</p>
 
 Run locally:
 
