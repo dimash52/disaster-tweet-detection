@@ -246,8 +246,8 @@ The project includes a simple web application for manual inference.
 ### Demo
 
 <p align="center">
-  <img src="images/demo1.png" width="50%" />
-  <img src="images/demo2.png" width="50%" />
+  <img src="images/demo1.png" width="45%" />
+  <img src="images/demo2.png" width="45%" />
 </p>
 
 Run locally:
