@@ -3,4 +3,4 @@ env/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-models/distilbert/model.safetensors
+models/distilbert/
